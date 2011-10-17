@@ -1,0 +1,9 @@
+Package: us.nakedproductions.poweralert
+Name: PowerAlert Vibration
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Creates a vibration when there's a power alert!
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
